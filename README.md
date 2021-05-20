@@ -1,4 +1,4 @@
-## ICR Bot
+## IRC Bot
 ### Local environment setup
 1. npm install
 
